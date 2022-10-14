@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nettune057
 - 👀 I’m interested in reading and vibing
 - 🌱 I’m currently learning network, cloud, devsecops, web-dev, AI, SDN, system. 
-- 💞️ I’m looking to collaborate on Ms.D :3
+- 💞️ I’m collaborating on Ms.D :3
 - 📫 How to reach me : guest what :)
 
 <!---
