@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nettune057
 - 👀 I’m interested in reading and vibing
 - 🌱 I’m currently learning networking, cloud computing, devsecops engineering, IoT designing, web-developing, AI researching, SDN architecting, system, solution. 
-- 💞️ I’m collaborating on Ms.D :3
+- 💞️ I’m collaborating 
 - 📫 How to reach me : guest what :)
 
 <!---
