@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nettune057
 - 👀 I’m interested in reading and vibing
-- 🌱 I’m currently learning cloud computing, DevSecOps, software engineering. 
-- 💞️ I’m collaborating 
+- 🌱 I’m currently learning Cloud Engineering, DevSecOps, Software engineering. 
+- 💞️ I work alone
 - 📫 How to reach me : guest what :)
 
 <!---
