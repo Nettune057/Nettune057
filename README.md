@@ -41,7 +41,7 @@ I am a passionate AI and network security researcher at Soongsil University, dri
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-Here are some ideas to get you started:
+## 👋 Something else
 
 - 🔭 I’m currently working on Graph Neural Network 
 - 🌱 I’m currently learning Cybersecurity, MlOps
