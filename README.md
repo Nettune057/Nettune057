@@ -8,12 +8,16 @@ I am a passionate AI and network security researcher at Soongsil University, dri
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at Soongsil University, Korea.
 - 📝 I was a Software Engineer and a DevSecOps Engineer
-- 🌐 Proud member of the [MVP student ambassador](https://mvp.microsoft.com/), contributing to the tech community.
+- 🌐 Proud member of the [Microsoft's MVP student ambassador](https://mvp.microsoft.com/), contributing to the tech community.
 - ✍️ Researcher at Smart Network System Laboratory, Soongsil University
 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,fastapi,rust,mysql,tensorflow,linux,kubernetes,openshift,terraform)](https://skillicons.dev)
+
+## Language
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nettune057&langs_count=8)
 
 ## 🌱 Currently Exploring
 
@@ -33,13 +37,9 @@ I am a passionate AI and network security researcher at Soongsil University, dri
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/MurphyNewin)
-- Read more of my articles on [Instagram]([https://www.instagram.com/tung23.01/)
+- Read more of my articles on [Instagram]([https://www.instagram.com/tung23.01)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
 
 Here are some ideas to get you started:
 
@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tung23.01
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I go running everyday 5pm
--->
+
