@@ -13,7 +13,7 @@ I am a passionate AI and network security researcher at Soongsil University, dri
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,fastapi,rust,mysql,tensorflow,linux,kubernetes,openshift,terraform)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
