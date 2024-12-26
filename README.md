@@ -21,11 +21,11 @@ I am a passionate AI and network security researcher at Soongsil University, dri
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Building server-side applications with FastAPI, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-  - Building Machine Learning Models
-  - Apply Machine Learning Models to Cybersecurity
+- 🚀 Learning AI and MlOps
+  - Building AI-based native server-side applications with FastAPI and Pytorch.
+  - Learning Big data, Mining technique and Processing technique.
+  - Building machine learning models, Design and compose advanced machine learning models.
+  - Building optimized and automate MlOps infrastructure and pipelines
 
  ## 🏆 Achievements
 
