@@ -37,7 +37,7 @@ I am a passionate AI and network security researcher at Soongsil University, dri
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/MurphyNewin)
-- Read more of my articles on [Instagram]([https://www.instagram.com/tung23.01)
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
@@ -48,7 +48,6 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 - 👯 I’m looking to collaborate on Software's freelance job
 - 🤔 I’m looking for help with ideas 
 - 💬 Ask me about research topics
-- 📫 How to reach me: tung23.01
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I go running everyday 5pm
 
